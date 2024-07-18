@@ -16,12 +16,14 @@ Tenho conhecimento intermediário em Linux, Docker.
   <img align="center" alt="c-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="Delphi_RAD_Studio" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br/>
 
 ## Minhas redes sociais 
 
 <!--[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/marcelomera)](https://youtube.com/c/marcelomera) -->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/marcelohmera)](https://x.com/marcelohmera)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://facebook.com/marcelohmera)](https://www.facebook.com/marcelohmera)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/marcelohmera)](https://x.com/marcelohmera)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelomera)](https://www.linkedin.com/in/marcelomera)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcelomera)](https://www.instagram.com/marcelomera)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/marcelomera)](https://t.me/marcelomera)
